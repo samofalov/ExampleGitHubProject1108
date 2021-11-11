@@ -10,7 +10,9 @@ public class Main extends Object {
 		
 			if(c == 'z') {
 				symbol = ".";
-			}
+			} else {
+				// TODO: some stuff
+			} 
 			
 			System.out.print(c + symbol);
 		}
